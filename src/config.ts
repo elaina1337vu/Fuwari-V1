@@ -24,7 +24,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'GitHub',
-      url: 'https://github.com/Valencia1337/Fuwari',
+      url: 'https://github.com/Valencia1337/Fuwari-V1',
       external: true,
     },
   ],
@@ -48,7 +48,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/Valencia1337/Fuwari',
+      url: 'https://github.com/Valencia1337/Fuwari-V1',
     },
   ],
 }
