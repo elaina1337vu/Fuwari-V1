@@ -7,8 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'Elaina',
+  subtitle: 'Elaina Site',
   lang: 'en',
   themeHue: 250,
   banner: {
@@ -37,8 +37,8 @@ export const profileConfig: ProfileConfig = {
   links: [
     {
       name: 'Twitter',
-      icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      icon: 'fa6-brands:instagram',
+      url: 'https://instagram.com/fxzen.vu',
     },
     {
       name: 'Steam',
